@@ -1,0 +1,5 @@
+This project uses classification models to predict the presence or absence of heart disease in patients. It utilizes a public dataset with 14 attributes and a binary target variable indicating the presence or absence of heart disease.
+
+The project includes data preprocessing, exploratory data analysis, model building using various classification models such as Logistic Regression, Decision Trees, Random Forests, SVM, KNN, Naive Bayes, Neural Networks, model evaluation using metrics such as accuracy, precision, recall, F1-score, and AUC-ROC, and hyperparameter tuning.
+
+The result is a predictive model that can be deployed as a web application to predict the presence or absence of heart disease in new patients. Python libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib are used to implement the project.
